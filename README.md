@@ -1,4 +1,4 @@
-# Restaurant-Database-System-Project
+# Sales Operations Database System | SQL Server
 
 Project Overview
 This project is a comprehensive database system designed for a restaurant operation named "Papa Georgios" (PG). The system captures and manages various aspects of the restaurant’s business, including sales, employee management, inventory tracking, customer loyalty programs, and operational data. It was developed as part of the CS 488 Database Systems course.
